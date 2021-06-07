@@ -1,1 +1,5 @@
-# 김형록
+# Web Developer
+
+- languages : HTML5, CSS3, JavaScript ...
+- hobbys : reading books
+- interested in : fashion, pop ...
