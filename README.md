@@ -4,7 +4,7 @@
 - **Frameworks** : Rea ...
 - **hobbys** : reading books
 - **interested in** : fashion, pop, trip ...
-- gmail : <s21026@gsm.hs.kr>
+- gmail : <khr5k0228@gmail.com>
 - [instagram](https://www.instagram.com/khr5k_0228)
 
 
