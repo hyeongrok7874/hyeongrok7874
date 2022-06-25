@@ -1,13 +1,5 @@
-# Front-End Developer 🧑🏻‍💻
+## 안녕하세요 🙇‍♂️
 
-- **languages** : HTML5, CSS3, JavaScript ...
-- **Frameworks** : R ...
-- **hobbys** : reading books
-- **interested in** : fashion, pop, trip ...
-- gmail : <s21026@gsm.hs.kr>
-- [instagram](https://www.instagram.com/khr5k_0228)
-
-
-**☝️ Simple is the best**
-
-양보다는 **질**을 우선으로 하는 개발자가 되겠습니다
+모든 가치들은 도전으로부터 창출된다고 생각합니다.  
+많은 가치들을 창출하기 위하여 도전을 두려워하지 않고 즐깁니다.  
+아직 학생인 저는, 실패를 양분 삼아 끝없이 성장하겠습니다.
